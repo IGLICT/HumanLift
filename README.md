@@ -1,5 +1,7 @@
+# <span><img src="./assets/humanlift_logo.png" height="35" style="vertical-align: top;"> - Official Implementation</span>
+
 <div align="center">
-<h1>Single-Image to 3D Animatable Human with 3D-Aware Diffusion Priors and Facial Enhancement</h1>
+<h1>HumanLift: Single-Image 3D Human Reconstruction with 3D-Aware Diffusion Priors and Facial Enhancement</h1>
 
 <a href="http://geometrylearning.com/HumanLift/index.html"><img src="https://img.shields.io/badge/Project_Page-green" alt="Project Page"></a>
 
@@ -18,7 +20,7 @@ Jie Yang<sup>1</sup>, Bo-Tao Zhang<sup>1,2</sup>, Feng-Lin Liu<sup>1,2</sup>, Ho
 
 ## Overview
 
-![teaser](assets/teaser.jpg)
+![teaser](assets/teaser1.jpg)
 
 **HumanLift** elevates a single reference image to a 3D animatable human, enabling view-consistent and photorealistic full-body image synthesis with high-quality facial details.
 
@@ -127,7 +129,7 @@ bash train.sh
 
 > ⚠️ This section provides an alternative animation method that may yield lower quality compared to the main reconstruction pipeline.
 
-### 0. Pose Change
+### 0. Pose Change (optional)
 - Use [WeShopAI Fashion Model Pose Change](https://huggingface.co/spaces/WeShopAI/WeShopAI-Fashion-Model-Pose-Change) to generate a T‑pose image (image A) with the prompt:  
   **"a full-body portrait of a person standing with arms and legs spread apart"**.
 
