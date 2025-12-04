@@ -1,6 +1,7 @@
-# <span><img src="./assets/humanlift_logo.png" height="35" style="vertical-align: top;"> - Official Implementation</span>
+<!-- # <span><img src="./assets/humanlift_logo.png" height="50" style="vertical-align: top;"> - Official Implementation</span> -->
 
 <div align="center">
+<img src="./assets/humanlift_logo.png" height="100" style="vertical-align: top;">
 <h1>HumanLift: Single-Image 3D Human Reconstruction with 3D-Aware Diffusion Priors and Facial Enhancement</h1>
 
 <a href="http://geometrylearning.com/HumanLift/index.html"><img src="https://img.shields.io/badge/Project_Page-green" alt="Project Page"></a>
