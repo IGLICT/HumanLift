@@ -2,16 +2,17 @@
 <h1>Single-Image to 3D Animatable Human with 3D-Aware Diffusion Priors and Facial Enhancement</h1>
 
 <a href="http://geometrylearning.com/HumanLift/index.html"><img src="https://img.shields.io/badge/Project_Page-green" alt="Project Page"></a>
-</div>
 
-**1. Beijing Key Laboratory of Mobile Computing and Pervasive Device, Institute of Computing Technology, Chinese Academy of Sciences**  
-**2. University of Chinese Academy of Sciences**  
-**3. Hong Kong University of Science and Technology**  
-**4. Cardiff University**
 
-[Jie Yang](http://people.geometrylearning.com/~jieyang/)<sup>1</sup>, [Bo-Tao Zhang]()<sup>1,2</sup>,[Feng-Lin Liu](http://people.geometrylearning.com/lfl/)<sup>1,2</sup>,[Hongbo Fu](https://hongbofu.people.ust.hk/index.htm)<sup>3</sup>,[Yu-Kun Lai](https://profiles.cardiff.ac.uk/staff/laiy4)<sup>4</sup>,[Lin Gao](http://www.geometrylearning.com/lin/)<sup>1,2</sup>
+**1. Institute of Computing Technology, Chinese Academy of Sciences**  **2. University of Chinese Academy of Sciences**  
+**3. Hong Kong University of Science and Technology**  **4. Cardiff University**
+
+Jie Yang<sup>1</sup>, Bo-Tao Zhang<sup>1,2</sup>, Feng-Lin Liu<sup>1,2</sup>, Hongbo Fu<sup>3</sup>, Yu-Kun Lai<sup>4</sup>, Lin Gao<sup>1,2</sup>
+
+<!-- [Jie Yang](http://people.geometrylearning.com/~jieyang/)<sup>1</sup>, [Bo-Tao Zhang]()<sup>1,2</sup>,[Feng-Lin Liu](http://people.geometrylearning.com/lfl/)<sup>1,2</sup>,[Hongbo Fu](https://hongbofu.people.ust.hk/index.htm)<sup>3</sup>,[Yu-Kun Lai](https://profiles.cardiff.ac.uk/staff/laiy4)<sup>4</sup>,[Lin Gao](http://www.geometrylearning.com/lin/)<sup>1,2</sup> -->
 
 **SIGGRAPH ASIA 2025**
+</div>
 
 ---
 
