@@ -9,12 +9,7 @@
 **3. Hong Kong University of Science and Technology**  
 **4. Cardiff University**
 
-[Jie Yang](http://people.geometrylearning.com/~jieyang/)<sup>1</sup>,  
-[Bo-Tao Zhang]()<sup>1,2</sup>,  
-[Feng-Lin Liu](http://people.geometrylearning.com/lfl/)<sup>1,2</sup>,  
-[Hongbo Fu](https://hongbofu.people.ust.hk/index.htm)<sup>3</sup>,  
-[Yu-Kun Lai](https://profiles.cardiff.ac.uk/staff/laiy4)<sup>4</sup>,  
-[Lin Gao](http://www.geometrylearning.com/lin/)<sup>1,2</sup>
+[Jie Yang](http://people.geometrylearning.com/~jieyang/)<sup>1</sup>, [Bo-Tao Zhang]()<sup>1,2</sup>,[Feng-Lin Liu](http://people.geometrylearning.com/lfl/)<sup>1,2</sup>,[Hongbo Fu](https://hongbofu.people.ust.hk/index.htm)<sup>3</sup>,[Yu-Kun Lai](https://profiles.cardiff.ac.uk/staff/laiy4)<sup>4</sup>,[Lin Gao](http://www.geometrylearning.com/lin/)<sup>1,2</sup>
 
 **SIGGRAPH ASIA 2025**
 
