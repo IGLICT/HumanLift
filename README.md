@@ -84,7 +84,7 @@ python pose_estimation/video2motion.py \
 Generate multi-view RGB images using the input image and semantic maps.
 
 #### Download Checkpoints:
-Download the required model checkpoints from [Google Drive](https://drive.google.com/drive/folders/13M_CQzCaIfSTsyzZD9TFrab221Uf7x2O?usp=sharing) and place them in the `ckpt` (refer to `inference_wan_rgb.py` for the expected path structure).
+Download the required model checkpoints from [CST Drive](https://pan.cstcloud.cn/s/uu3ml8vSnE) and place them in the `ckpt` (refer to `inference_wan_rgb.py` for the expected path structure).
 
 #### Setup:
 - Copy `./images/` to `data/data/` and rename it to `test`
